@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+message: Welcome to my blog!
 ---
